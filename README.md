@@ -1,0 +1,2 @@
+# PythonPractice
+Programiz based solutions
